@@ -33,8 +33,8 @@
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8 ">
                 <div class="d-flex flex-column justify-content-center">
-                    <img class="rounded mx-auto d-block"   src="{{ asset('images/logoBookShop.png') }}" alt="Logo">
-                    <img class="rounded mx-auto d-block"  src="{{ asset('images/HKLibrayLogIn.png') }}" alt="Nombre Empresa">
+                    <img class="rounded mx-auto d-block"   src="https://github.com/JanoALockhart/ProyectoLaravelLibreria2023/blob/main/public/images/logoBookShop.png" alt="Logo">
+                    <img class="rounded mx-auto d-block"  src="https://github.com/JanoALockhart/ProyectoLaravelLibreria2023/blob/main/public/images/HKLibrayLogIn.png" alt="Nombre Empresa">
                 </div>
             </div>
         </div>
