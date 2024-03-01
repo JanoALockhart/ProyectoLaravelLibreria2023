@@ -10,7 +10,7 @@
         },
         {
             "src": "/images/(.*)",
-            "dest": "public/images/"
+            "dest": "/images/$2"
         },
         {
             "src": "/(.*)",
