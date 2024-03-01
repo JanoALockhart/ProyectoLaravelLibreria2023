@@ -211,7 +211,7 @@ class PedidoController extends Controller
     }
 
     private function checkMercadoPagoStatus($contents){
-        MercadoPago\SDK::setAccessToken('TEST-4515228768272673-062018-62a67988a77c5b1d9e16d60db78985fc-607933933');
+        MercadoPago\SDK::setAccessToken(config('mercadopago.mp_access_token'));
         
         $payment = new MercadoPago\Payment();
         $payment->transaction_amount = $contents['transaction_amount'];
