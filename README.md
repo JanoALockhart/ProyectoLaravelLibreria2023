@@ -30,6 +30,9 @@ database created using **Postgres** and hosted on **Supabase** and an image stor
 
 **Vercel** was used to deploy and host the application.
 
+### API
+This project provides an API for the frontend side. You can check the API's documentation [here](https://proyecto-laravel-libreria2023.vercel.app/rest/v1/documentation).
+
 ## Credits
 This project was made by: 
 - [Pacioni, Dueñas Nahuel](https://github.com/NahuelDP8)
